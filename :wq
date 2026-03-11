@@ -141,25 +141,36 @@
       </tr>
 
       <tr>
-          <td colspan="2">Dwarf Planets*
+          <td>Dwarf Planets*
             <td>Pluto</td>
           <td class="">0.0146</td>
-          <td class="">2,370</td>
-          <td class="">2095</td>
-          <td class="">0.7</td>
-          <td class="">153.3</td>
-          <td class="">5906.4</td>
-          <td class="">-225</td>
-          <td class="">5</td>
-          <td class="">Declassified as a planet in 2006, but this <a href="http://www.usatoday.com/story/tech/2014/10/02/pluto-planet-solar-system/16578959/">remains controversial</a>.
-
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
+          <td class=""></td>
           </td>
       
 
       </tr>
       </tbody>
     </table>
+    Rows
 
+
+
+
+
+Dwarf planets*
+
+Pluto 0.0146 2,370 2095 0.7 153.3 5906.4 -225 5 Declassified as a planet in 2006, but this <a href="http://www.usatoday.com/story/tech/2014/10/02/pluto-planet-solar-system/16578959/">remains controversial</a>.
+
+Columns
+
+Caption
 
   </body>
   
